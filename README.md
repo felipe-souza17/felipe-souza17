@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá!
 
-<!--
-**felipe-souza17/felipe-souza17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, meu chamo Felipe, atualmente estudo Analise e Desenvolvimento de Sistemas na ETEC. Acompanhe um pouco sobre meus projetos 😀
 
-Here are some ideas to get you started:
+- 📽️ Franquia Star Wars
+- 🎮 Battlefield 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Aprendendo:
+<div style="display: inline_block">
+  <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
+</div>
+
+#### Status:
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-souza17&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-souza17&layout=compact&theme=dark"
+</div>
+
+
