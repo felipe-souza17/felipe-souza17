@@ -4,7 +4,7 @@ Prazer, meu chamo Felipe, atualmente estudo Analise e Desenvolvimento de Sistema
 
 - 📽️ Franquia Star Wars
 - 🎮 Battlefield 1
-
+<hr>
 #### Aprendendo:
 <div style="display: inline_block">
   <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
@@ -17,6 +17,7 @@ Prazer, meu chamo Felipe, atualmente estudo Analise e Desenvolvimento de Sistema
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-souza17&theme=dark&show_icons=true" />
+  <hr>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-souza17&layout=compact&theme=dark"
 </div>
 
