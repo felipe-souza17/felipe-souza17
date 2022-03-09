@@ -5,7 +5,7 @@
 <p >Welcome to my GitHub, follow some of my learning through my projects that are published. Don't forget that below contains the technologies I'm learning. I am currently a student of Systems Development in Brazil at Etec Dra Ruth Cardoso school. 🇧🇷</p>
 
 <hr>
-<img align="right" alt="" width="425"  src="https://i.imgur.com/7pimlBC.gif" />
+<img align="right" alt="" width="300"  src="https://i.imgur.com/7pimlBC.gif" />
 
 
 
