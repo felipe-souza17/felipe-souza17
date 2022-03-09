@@ -5,7 +5,7 @@
 <p >Welcome to my GitHub, follow some of my learning through my projects that are published. Don't forget that below contains the technologies I'm learning. I am currently a student of Systems Development in Brazil at Etec Dra Ruth Cardoso school. 🇧🇷</p>
 
 <hr>
-<img align="right" alt="" width="300"  src="https://i.imgur.com/7pimlBC.gif" />
+<img align="right" alt="" width="25%"  src="https://i.imgur.com/7pimlBC.gif" />
 
 
 
@@ -25,8 +25,9 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-souza17&theme=github_dark&show_icons=true" />
   <hr>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-souza17&layout=compact&theme=github_dark"
-  <p align="right">
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-souza17&layout=compact&theme=github_dark">
+  <br>
+  <p align="left">
     <ul>
       <li>Front End Student 🖥️</li>
       <li>Always looking to learn! 📈</li>
