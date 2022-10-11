@@ -26,7 +26,6 @@
   <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
   <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
   <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" />
   <img align="center" alt="" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
 </div>
 
