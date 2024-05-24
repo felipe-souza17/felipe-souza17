@@ -5,7 +5,6 @@
 <ul>
   <li >👨🏼‍💻 Always coding </li>
   <li >💻 Fullstack Developer </li>
-  <li >📚 I love read and learning </li>
 </ul>
 
 ### My Github Activity
@@ -24,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mysql,postgres,ps,figma,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mysql,postgres,ps,figma,git,github,python&theme=light" />
   </a>
 </p>
 
