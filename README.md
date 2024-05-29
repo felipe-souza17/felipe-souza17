@@ -2,31 +2,13 @@
 
 # Hello There! My name is Felipe
 
-<ul>
-  <li >👨🏼‍💻 Always coding </li>
-  <li >💻 Fullstack Developer </li>
-</ul>
+Fullstack Developer at @DscTi
 
-### My Github Activity
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20R.%20Souza-00875?style=flat-square&logo=linkedin&color=%23000000&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffelipe-r-souza-444b17205%2F)](https://www.linkedin.com/in/diego-schell-fernandes/) 
 
-<h4>You can check my github stats, activy and my most used programming languages ​​by me</h4>
-<div align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipe-souza17&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipe-souza17&layout=compact&langs_count=8&theme=dark" > 
-</div>
+Student of Internet Systems at Rubens Lara College of Technology. Developing web solutions & business intelligence.
 
-
-
-### 🎓 My skills
-
-<h4>These are some of the tools I have knowledge and usually use in my day</h4>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mysql,postgres,ps,figma,git,github,python&theme=light" />
-  </a>
-</p>
-
+"Hard work beats talent when talent doesn't work hard."
 
 
 
